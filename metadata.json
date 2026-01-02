@@ -1,0 +1,7 @@
+{
+  "name": "VoiceBI: Talk to Your Data",
+  "description": "A sophisticated voice-activated business intelligence dashboard that uses the Gemini Live API to translate natural language into visual data insights. Users can speak queries about sales, revenue, and trends to instantly generate dynamic charts and tables.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
